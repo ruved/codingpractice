@@ -2,7 +2,7 @@
 using namespace std;
 vector<int>div[1000];
 
-void finddivisor(int n)
+void finddivisor(int n,map<int,int>&mp)
 {
   for(int i=2;i<=n;++i)
   {
