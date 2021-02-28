@@ -14,5 +14,6 @@
         "regex": "c",
         "valarray": "c",
         "cmath": "cpp"
-    }
+    },
+    "svn.ignoreMissingSvnWarning": true
 }
