@@ -1,4 +1,5 @@
 #include<bits/stdc++.h>
+//revers a string
 using namespace std;
  
  void swap(char &a,char &b)
