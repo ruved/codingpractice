@@ -13,7 +13,8 @@
         "initializer_list": "c",
         "regex": "c",
         "valarray": "c",
-        "cmath": "cpp"
+        "cmath": "cpp",
+        "random": "cpp"
     },
     "svn.ignoreMissingSvnWarning": true
 }
