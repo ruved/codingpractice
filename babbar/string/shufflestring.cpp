@@ -1,7 +1,9 @@
 #include<bits/stdc++.h>
 #define ll long long
 using namespace std;
- 
+//  1. check the length first string + second string =result stable_partition
+//  2. traverse and match the character of string 1 and string 2 with result string 
+
  bool checkshuffle(string s1,string s2,string result)
  {
      if(s1.length()+s2.length()!=result.length()) return false;
